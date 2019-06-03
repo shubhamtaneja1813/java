@@ -1,0 +1,8 @@
+li{color :red}
+
+body{
+background-image:url("C:\Users\Shubham\Desktop\innovation-technology.jpg");
+height: 100vh;
+background-size: cover;
+background-position : centre;
+}
