@@ -7,3 +7,5 @@ sum=sum+i;
 cout<<sum;
 cout<<a;
 lo
+tu
+
