@@ -5,3 +5,4 @@ for(i=1;i<=3;i++)
 sum=sum+i;
 }
 cout<<sum;
+cout<<a;
